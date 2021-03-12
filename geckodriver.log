@@ -1,0 +1,27 @@
+1615513746449	geckodriver	INFO	Listening on 127.0.0.1:49981
+1615513749497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile15v76m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615513751883	Marionette	INFO	Listening on port 49989
+1615513752130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615513911355	Marionette	INFO	Stopped listening on port 49989
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615513922360	geckodriver	INFO	Listening on 127.0.0.1:50104
+1615513925401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilegf0IoA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615513927382	Marionette	INFO	Listening on port 50112
+1615513927429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615513936879	Marionette	INFO	Stopped listening on port 50112
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615514165680	geckodriver	INFO	Listening on 127.0.0.1:50336
+1615514168706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile53UkIR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615514170686	Marionette	INFO	Listening on port 50344
+1615514170728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615514189894	Marionette	INFO	Stopped listening on port 50344
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
